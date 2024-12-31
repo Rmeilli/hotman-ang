@@ -1,0 +1,25 @@
+.navbar-container {
+  background-color: rgba(16, 10, 10, 0.7);
+  padding: 5px 10px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.title{
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 7px;
+  color: white;
+}
+
+
